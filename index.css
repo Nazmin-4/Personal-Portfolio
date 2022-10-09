@@ -616,6 +616,7 @@ font-size: 33px
        }
        
 }
+@media(max-width:320px){
     .text-container p:nth-child(2){
         line-height: 40px;
         margin: 0px;
