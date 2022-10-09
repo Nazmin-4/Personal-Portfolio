@@ -416,6 +416,8 @@ animation: C 3s;
 #amk{
     font-family: 'Poppins', sans-serif;
 font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+font-size: 33px
 }
 .sc a{
     width: 50px;
