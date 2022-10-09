@@ -534,9 +534,9 @@ font-size: 33px
         font-size: 20px;
     }
     .about-container p:nth-child(2){
-        font-size: 10px;
+        font-size: 12px;
     }.about-container p:nth-child(3){
-        font-size: 14px;
+        font-size: 15px;
     }
     .Cer{
         padding: 2% 5% 0px 5%;
@@ -584,6 +584,8 @@ font-size: 33px
      
         font-size: 20px;
     }
+    .about-text p:nth-child(2){
+    font-size:12px;}
     .about-container{
         top: 0px;
         flex-direction: column;
