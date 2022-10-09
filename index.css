@@ -232,7 +232,7 @@ h2{
 }
 
 .C{
-width: 90%;
+width: 95%;
 animation: C 3s;
 }
 .J{
@@ -240,11 +240,11 @@ animation: C 3s;
     animation: J 3s;
 }
 .CSS{
-    width: 60%;
+    width: 65%;
     animation: CSS 3s;
  }
 .c{
-        width: 80%;
+        width: 90%;
         animation: c 3s;
 }
 .HTML{
@@ -267,7 +267,7 @@ animation: C 3s;
         width: 0%;
     }
     100%{
-        width: 90%;
+        width: 95%;
     }
 }
 @keyframes J {
@@ -291,7 +291,7 @@ animation: C 3s;
         width: 0%;
     }
     100%{
-        width: 80%;
+        width: 90%;
     }
 }
 @keyframes CSS {
@@ -299,7 +299,7 @@ animation: C 3s;
         width: 0%;
     }
     100%{
-        width: 60%;
+        width: 65%;
     }
 }
 @keyframes JS {
